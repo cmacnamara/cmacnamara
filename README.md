@@ -1,18 +1,12 @@
-<div align="center">
-    <img src="profileReadmeSVG.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
-<!--
-**cmacnamara/cmacnamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <samp>
+        Hi, I'm Chris! 👋 <br>
+        😄 Pronouns: He/Him/His <br>
+        🔥 Software Developer working hard to make cool and useful tools <br>
+        ✨ Favorite Tech: JavaScript, React, Java, Node ... <br>
+        📓 I’m currently learning Ruby and Redux... 😭 <br>
+        📧 cpmacnamara@gmail.com <br>
+        🎨 Portfolio: (Coming soon...) <br>
+        💼 LinkedIn: www.linkedin.com/in/christopher-macnamara <br>
+    </samp>
+</p>
